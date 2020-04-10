@@ -1,7 +1,6 @@
 package ex_9_2;
 
 
-
 public class Handler {
     private Handler handler;
     private String nome;
